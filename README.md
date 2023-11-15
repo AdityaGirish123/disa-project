@@ -1,2 +1,2 @@
-# disa-project
+# dsa-project
 DSA project - Online Shopping Interface
